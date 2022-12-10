@@ -1,0 +1,146 @@
+.msg{
+    width: 100%;
+}
+
+.msg p{
+    padding: 5px;
+    text-align: center;
+    background-color: #04AA6D;
+    color:white;
+    font-size: 18px;
+}
+/* body starts here */
+
+.main{
+    display: flex;
+}
+
+.comm_bar{
+    margin: 10px 10px 0 10px;
+    width: 20%;
+    
+}
+
+.sub_comm_bar{
+    margin: 10px 0 10px 0;
+    background-color:white;
+    border: 1px #ccc solid;
+    border-radius: 5px;
+}
+.sub_comm_bar .head{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 5px 5px 5px 5px;
+}
+
+.sub_comm_bar ul li{
+    padding: 5px 5px 5px 5px;
+}
+
+#comm{
+    width: 100%;
+    text-align: center;
+    
+}
+
+#comm div{
+    padding: 10px 0 10px 0;
+    background-color: #04AA6D;
+    color: white;
+}
+
+.feed{
+    width: 60%;
+    margin: 20px 0 0 0;
+    
+}
+.tags{
+    border: 1px #ccc solid;
+    padding: 10px 5px 10px 5px;
+    background-color:white;
+    border-radius: 5px;
+}
+
+.tags a{
+    margin: 5px 0 5px 0;
+    font-size: 18px;
+    padding: 5px;
+}
+
+.ind_post{
+    margin: 10px 0 10px 0;
+    padding: 10px;
+    border: 1px #ccc solid;
+    background-color:white;
+    border-radius: 5px;
+}
+.right_side{
+    margin: 10px 10px 0 10px;
+    width: 20%;
+}
+.profile{
+    margin: 10px 0 10px 0;
+    width: 100%;
+    height: min-content;
+    border: 1px #ccc solid;
+    background-color:white;
+    border-radius: 5px;
+}
+.profile .img{
+    width: 100%;
+}
+.profile .img img{
+    margin-top: 10px;
+    border: 1px #ccc solid;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.info{
+    padding: 10px;
+    text-align: center;
+}
+/* FOOTER STARTS HERE */
+/* .footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    background-color: #292a2e;
+    color: white;
+    padding: 50px;
+}
+
+.address{
+    margin-right: 30%;
+    margin-bottom: 20px;
+}
+.address p {
+    font-size: 20px;
+    color: #04AA6D;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.navbar-footer{
+    float: left;
+}
+.navbar-footer p {
+    font-size: 20px;
+    margin-bottom: 15px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.navbar-footer a {
+    color: white;
+    margin-bottom: 10px;
+}
+
+.copyright {
+    background-color: green;
+    color: white;
+    text-align: center;
+} */
+
+                /* ............FOOTER ENDS HERE............ */

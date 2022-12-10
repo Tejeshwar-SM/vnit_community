@@ -1,0 +1,52 @@
+*{
+    list-style: none;
+    margin:0px;
+    padding: 0px;
+    text-decoration: none;
+}
+body{
+    background-color: #DAE0E6;
+}
+a{
+    color:black;
+}
+.header{
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px 10px 10px;
+    border-bottom: #04AA6D 1px solid;
+}
+.logo{
+    padding: 0px;
+    margin-left: 10px;
+}
+.navbar{
+    margin-top: 8px;
+}
+
+.navbar nav ul{
+    display: inline-flex;
+}
+
+.navbar a{
+    margin: 0 10px 0 10px;
+    padding: 5px;
+    font-size: 18px;
+    color: black;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.navbar .current {
+    color: #04AA6D;
+}
+.login {
+    margin-top: 10px;
+    margin-right: 5%;
+}
+.login a{
+    padding: 10px 5px;
+    background-color: #04AA6D;
+    color: white;
+    border: 1px #ccc solid;
+    border-radius: 5px;
+}
